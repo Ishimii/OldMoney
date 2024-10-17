@@ -1,7 +1,7 @@
 {
-    "name": "{Token_name}",
-    "symbol": "{Token_Symbol}",
-    "description": "{Token_Description}.",
-    "image": "{Para subir una imagen de GitHub copia y pega la dirección de tu repositorio pero el raw}"
+    "name": "OldMoney",
+    "symbol": "OMC",
+    "description": "OldMoney is a meme coin celebrating the elegance and timeless luxury of old-world wealth. It embodies classic sophistication, vintage charm, and the prestige of enduring value in a modern digital era.",
+    "image": "https://raw.githubusercontent.com/Ishimii/OldMoney/main/logo/logo.png"
   }
   
